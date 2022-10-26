@@ -8,7 +8,7 @@
     var InboxScreen = global.InboxScreen;
     var SettingsScreen = global.SettingsScreen;
 
-    var APP_CODE = <your application code>;
+    var APP_CODE = "2d51565d5628a50d804b89cd59adc920-6857e2bf-90d2-472c-bc5a-b7602c6a0b2f";
 
     /**
      * Bootstrap object

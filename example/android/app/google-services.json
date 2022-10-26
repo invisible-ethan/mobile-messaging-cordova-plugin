@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "898096692455",
+    "project_id": "ib-android-test",
+    "storage_bucket": "ib-android-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898096692455:android:65a8211f100d555df5b642",
+        "android_client_info": {
+          "package_name": "com.infobip.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898096692455-5ik4oq07ptp84vhs5enaacmjo7i72e64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYaL0F-scWmmd3Db8TwDwbF8VKxP5dzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898096692455-5ik4oq07ptp84vhs5enaacmjo7i72e64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898096692455:android:0394b6776d439ee3f5b642",
+        "android_client_info": {
+          "package_name": "com.infobip.mobilemessaging.cordova.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898096692455-5ik4oq07ptp84vhs5enaacmjo7i72e64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYaL0F-scWmmd3Db8TwDwbF8VKxP5dzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898096692455-5ik4oq07ptp84vhs5enaacmjo7i72e64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

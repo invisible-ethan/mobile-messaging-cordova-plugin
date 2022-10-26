@@ -1,0 +1,6 @@
+{
+  "appId": "com.infobip.mobilemessaging.cordova.example",
+  "appName": "CordovaMobilePushDemo",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

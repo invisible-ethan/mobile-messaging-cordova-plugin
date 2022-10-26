@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CordovaMobilePushDemo</string>
+    <string name="title_activity_main">CordovaMobilePushDemo</string>
+    <string name="package_name">com.infobip.mobilemessaging.cordova.example</string>
+    <string name="custom_url_scheme">com.infobip.mobilemessaging.cordova.example</string>
+    <string name="infobip_application_code">2d51565d5628a50d804b89cd59adc920-6857e2bf-90d2-472c-bc5a-b7602c6a0b2f</string>
+</resources>
